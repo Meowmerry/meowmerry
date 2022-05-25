@@ -24,7 +24,7 @@ I'm Thasanee, nickname Meow. I would like to a Software Developer, a Software En
 🔭 
 🌱 I’m currently learning to be a software developer and new languagues.
 
-I can speak Thai, Loas, English and a little spanish.
+I can speak Thai, Loas, English and a little Spanish.
 
 I love to learn and challenge myself.
 
