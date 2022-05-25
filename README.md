@@ -32,7 +32,7 @@ I love to learn and challenge myself.
 My top used programming languages are `JavaScript` and `TypeScript`, `React`. FYI
 
 
-<img src="./asset/code.png" width="100%" />
+<img src="./asset/code.png" width="80%" />
 <!-- #### ~   👯🌱 👯🌱  👯🌱  👯🌱   👯🌱  👯🌱 <img src="./asset/gif.gif" width="200px"/>   👯🌱  👯🌱  👯🌱  👯🌱  👯🌱  👯🌱  ~  -->
 
 
