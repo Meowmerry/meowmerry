@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # ~  👋 Hello Let's begin. Delight !!!!!!   😄 ~
 
-<img src="./asset/cover.png"  width="100%" height="100px"/> 
-<img src="./asset/gif.gif" text-align="center" width="100%"/>
+<img src="./asset/cover.png"  width="100%" height="120px"/> 
+<img src="./asset/gif.gif" width="100%"/>
 
 <img src="./asset/giphy.gif" width="20px" /> 
 I'm Thasanee, Meow. Who be like a Software Developer, a Software Engineer and always love to be happy and delight woooo, :😄 :. 
