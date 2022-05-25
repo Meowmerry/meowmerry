@@ -20,16 +20,24 @@ Here are some ideas to get you started:
 <img src="./asset/cover.png"  width="100%" /> 
 <img src="./asset/giphy.gif" width="20px" /> 
 I'm Thasanee, nickname Meow. I would like to a Software Developer, a Software Engineer and always love to be happy and delight woooo, :😄 :. 
+
 🔭 
 🌱 I’m currently learning to be a software developer and new languagues.
+
 I can speak Thai, Loas, English and a little spanish.
+
 I love to learn and challenge myself.
+
+
+My top used programming languages are `JavaScript` and `TypeScript`, `React`. FYI
+
+
 <img src="./asset/code.png" width="100%" />
 <!-- #### ~   👯🌱 👯🌱  👯🌱  👯🌱   👯🌱  👯🌱 <img src="./asset/gif.gif" width="200px"/>   👯🌱  👯🌱  👯🌱  👯🌱  👯🌱  👯🌱  ~  -->
 
 
 
-My top used programming languages are `JavaScript` and `TypeScript`, `React`. FYI
+
 ## 🔧 Technologies & Tools
 
 ![os](https://img.shields.io/badge/OS-macOS-informational?style=for-the-badge&logo=macos&logoColor=f9f9f9&color=001634)
