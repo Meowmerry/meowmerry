@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img src="./asset/cover.png"  width="100%" /> 
 <img src="./asset/giphy.gif" width="20px" /> 
-I'm Thasanee, nickname Meow. I would like to a Software Developer, a Software Engineer and always love to be happy and delight woooo, :😄 :. 
+I'm Thasanee, nickname Meow. I would like to be a Software Developer, a Software Engineer and always love to be happy and delight woooo, :😄 :. 
 
 🔭 
 🌱 I’m currently learning to be a software developer and new languagues.
