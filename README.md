@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img src="./asset/cover.png"  width="100%" height="120px"/> 
 
-# ~  👯 <img src="./asset/gif.gif" width="350px"/>  👯 ~ 
+### ~  👯🌱  👯🌱  👯🌱   👯🌱  👯🌱 <img src="./asset/gif.gif" width="350px"/>   👯🌱  👯🌱  👯🌱  👯🌱  👯🌱  👯🌱  ~ 
 
 <img src="./asset/giphy.gif" width="20px" /> 
 I'm Thasanee, nickname Meow. I would like to a Software Developer, a Software Engineer and always love to be happy and delight woooo, :😄 :. 
@@ -91,4 +91,4 @@ Visitor Badge: https://github.com/jwenjian/visitor-badge
 Articles: https://betterprogramming.pub/add-your-recent-published-mediums-article-on-github-readme-9ffaf3ad1606
 
 
-# ~  👯 <img src="./asset/gif.gif" width="350px"/>  👯 ~ 
+### ~  👯🌱  👯🌱  👯🌱   👯🌱  👯🌱 <img src="./asset/gif.gif" width="350px"/>   👯🌱  👯🌱  👯🌱  👯🌱  👯🌱  👯🌱  ~ 
