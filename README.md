@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Meowmerry/meowmerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ~ Hello Let's begin. Delight !!!!!!   😄 ~
+# ~  👋 Hello Let's begin. Delight !!!!!!   😄 ~
 
 <img src="./asset/cover.png"  width="100%" height="100px"/> 
 <img src="./asset/gif.gif" text-align="center" width="100%"/>
