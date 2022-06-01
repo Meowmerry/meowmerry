@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # ~  👋 Hello Let's begin. I'm delighted you are here!!  😄 ~
 
 <img src="./asset/cover.png"  width="100%" /> 
-<img src="./asset/giphy.gif" width="20px" /> 
+<img src="./asset/giphy.gif" width="5%" /> 
 I'm Thasanee, nickname Meow. I would like to be a Software Developer, a Software Engineer and always love to be happy and delight woooo, :😄 :. 
 
 🔭 
@@ -80,7 +80,8 @@ A social media list
 
 
 
-##<img src="./asset/giphy.gif" width="20px" />  :chart_with_upwards_trend: GitHub Stats
+<img src="./asset/giphy.gif" width="5%" /> 
+## :chart_with_upwards_trend: GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meowmerry&layout=compact&hide=css&langs_count,reactjs,typeScript=15&title_color=f9f9f9&text_color=CFDAFF&bg_color=001634&icon_color=EBF6FF)](https://github.com/Meowmerry/Meowmerry)
 
