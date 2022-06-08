@@ -42,10 +42,14 @@ My top used programming languages are `JavaScript` and `TypeScript`, `React`. FY
 
 # Techinal Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" />
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50px" />
-
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" height="50px" />
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" height="50px" />
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" height="50px" />
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" height="50px" />
 
 ## 🔧 Technologies & Tools
 
@@ -83,7 +87,7 @@ A social media list
 
 [![https://github.com/buildingwatsize](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=f9f9f9)](https://github.com/Meowmerry)
 [![https://www.facebook.com/chinnawat.chimdee/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=f9f9f9)](https://www.facebook.com/LearningEnglishBymyself)
-[![https://th.linkedin.com/in/chinnawat-chimdee-0655a1110](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=f9f9f9)] <!-- (https://th.linkedin.com/in/chinnawat-chimdee-0655a1110) -->
+[![https://th.linkedin.com/in/chinnawat-chimdee-0655a1110](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=f9f9f9)] <!-- (https://th.linkedin.com/in/Meowthasanee) wait to create -->
 [![https://www.youtube.com/channel/UCm6ytzbE121tHE9tsIgp_Uw](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=f9f9f9)](https://www.youtube.com/channel/UCUCOIgUishIcXt-GV2FMCIQ)
 [![https://www.youtube.com/channel/UCm6ytzbE121tHE9tsIgp_Uw](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=f9f9f9)](https://www.youtube.com/channel/UCLOK2pSQ2_2H8wt5ftSGgXw)
 
