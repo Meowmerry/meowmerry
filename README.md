@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 <img src="./asset/giphy.gif" width="5%" /> 
 I'm Thasanee, nickname Meow. I would like to be a Software Developer, a Software Engineer and always love to be happy and delight woooo, :😄 :. 
 
-🔭 
-🌱 I’m currently learning to be a software developer and new languagues.
+Front End Software Developer originally from Thailand with a passion to learn new technologies.
+Strong problem solving and organizational skills useful in any multidisciplinary setting. 
+Effective in a team atmosphere with thoughtful attention to communication.
 
+🔭 
+🌱 I’m currently working on a software Engineer.
 I can speak Thai, Loas, English and a little Spanish.
 
 I love to learn and challenge myself.
-
 
 My top used programming languages are `JavaScript` and `TypeScript`, `React`. FYI
 
@@ -36,6 +38,14 @@ My top used programming languages are `JavaScript` and `TypeScript`, `React`. FY
 <!-- #### ~   👯🌱 👯🌱  👯🌱  👯🌱   👯🌱  👯🌱 <img src="./asset/gif.gif" width="200px"/>   👯🌱  👯🌱  👯🌱  👯🌱  👯🌱  👯🌱  ~  -->
 
 
+
+# Techinal Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"  height="50px" />
 
 
 ## 🔧 Technologies & Tools
@@ -58,6 +68,8 @@ My top used programming languages are `JavaScript` and `TypeScript`, `React`. FY
 ![tools-docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=f9f9f9&color=001634)
 ![tools-figma](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=f9f9f9&color=001634)
 
+
+
 ## &#x270d; Blog & Social
 
 ![social-github](https://img.shields.io/github/followers/buildingwatsize?style=social)
@@ -66,11 +78,8 @@ My top used programming languages are `JavaScript` and `TypeScript`, `React`. FY
 
 
 
-A sample of my recent articles:
-
 
 A social media list
-
 
 [![https://github.com/buildingwatsize](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=f9f9f9)](https://github.com/Meowmerry)
 [![https://www.facebook.com/chinnawat.chimdee/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=f9f9f9)](https://www.facebook.com/LearningEnglishBymyself)
