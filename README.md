@@ -45,8 +45,6 @@ My top used programming languages are `JavaScript` and `TypeScript`, `React`. FY
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"  height="50px" />
 
 
 ## 🔧 Technologies & Tools
@@ -68,6 +66,7 @@ My top used programming languages are `JavaScript` and `TypeScript`, `React`. FY
 ![tools-sonarqube](https://img.shields.io/badge/Tools-SonarQube-informational?style=for-the-badge&logo=sonarqube&logoColor=f9f9f9&color=001634)
 ![tools-docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=f9f9f9&color=001634)
 ![tools-figma](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=f9f9f9&color=001634)
+
 
 
 
