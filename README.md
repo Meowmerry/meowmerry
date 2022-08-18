@@ -32,7 +32,7 @@ I can speak Thai, Loas, English and a little Spanish.
 
 I love to learn and challenge myself.
 
-My top used programming languages are `JavaScript` and `TypeScript`, `React`. FYI
+My top used programming languages are `JavaScript` and `TypeScript`, `React`. FYI!!
 
 
 <!-- <img src="./asset/code.png" width="80%" /> -->
