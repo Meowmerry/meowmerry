@@ -87,7 +87,12 @@ A social media list
 
 [![https://github.com/buildingwatsize](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=f9f9f9)](https://github.com/Meowmerry)
 [![https://www.facebook.com/chinnawat.chimdee/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=f9f9f9)](https://www.facebook.com/LearningEnglishBymyself)
-[![https://www.linkedin.com/in/thasanee-p-686125243/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=f9f9f9)] (https://th.linkedin.com/in/Meowthasanee)
+
+
+[![https://th.linkedin.com/in/Meowthasanee](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=f9f9f9)](https://th.linkedin.com/in/Meowthasanee)
+
+
+
 [![https://www.youtube.com/channel/UCm6ytzbE121tHE9tsIgp_Uw](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=f9f9f9)](https://www.youtube.com/channel/UCUCOIgUishIcXt-GV2FMCIQ)
 [![https://www.youtube.com/channel/UCm6ytzbE121tHE9tsIgp_Uw](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=f9f9f9)](https://www.youtube.com/channel/UCLOK2pSQ2_2H8wt5ftSGgXw)
 
