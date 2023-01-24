@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 I'm Thasanee, nickname Meow. I'm a Software Developer, a Software Engineer and always love to be happy and delight woooo,😄 :. 
 
-I'm a Software Developer originally from Thailand with a passion to learn new technologies.
+Professional software engineer of experience contributing to the design and software development.
+I enjoy the frontend aspect of design which focuses on visuals and client needs.
+Excellent capabilities identifying potential issues and implementing product solutions. 
 Strong problem solving and organizational skills useful in any multidisciplinary setting. 
 Effective in a team atmosphere with thoughtful attention to communication.
 
