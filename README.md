@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="./asset/cover.png"  width="100%" /> 
 <img src="./asset/giphy.gif" width="5%" /> 
 
-I'm Thasanee, nickname Meow. I'm a Software Developer, a Software Engineer and always love to be happy and delight woooo,😄 :. 
+I'm Thasanee, nickname Meow. I'm a Software Developer, I'm always love to be happy and delight, other people tell me that woooo,😄 :. 
 
 Professional software engineer of experience contributing to the design and software development.
 I enjoy the frontend aspect of design which focuses on visuals and client needs.
