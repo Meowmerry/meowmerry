@@ -69,7 +69,7 @@ My top used programming languages are `JavaScript` and `TypeScript`, `React`. FY
 ![css-vuetify](https://img.shields.io/badge/CSS-Vuetify-informational?style=for-the-badge&logo=vuetify&logoColor=f9f9f9&color=001634)
 ![testing-jest](https://img.shields.io/badge/Testing-Jest-informational?style=for-the-badge&logo=jest&logoColor=f9f9f9&color=001634)
 ![database-mongodb](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=f9f9f9&color=001634)
-![tools-sonarqube](https://img.shields.io/badge/Tools-SonarQube-informational?style=for-the-badge&logo=sonarqube&logoColor=f9f9f9&color=001634)
+<!-- ![tools-sonarqube](https://img.shields.io/badge/Tools-SonarQube-informational?style=for-the-badge&logo=sonarqube&logoColor=f9f9f9&color=001634) -->
 ![tools-docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=f9f9f9&color=001634)
 ![tools-figma](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=f9f9f9&color=001634)
 
