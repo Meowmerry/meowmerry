@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 <img src="./asset/cover.png"  width="100%" /> 
 <img src="./asset/giphy.gif" width="5%" /> 
 
-I'm Thasanee, nickname Meow. I'm a Software Developer, I'm always love to be happy and delight, other people tell me that woooo,😄 :. 
+My name is Thasanee, but you can call me Meow. I am a software developer who is passionate about creating delightful experiences for users.
 
-Professional software engineer of experience contributing to the design and software development.
-I enjoy the frontend aspect of design which focuses on visuals and client needs.
-Excellent capabilities identifying potential issues and implementing product solutions. 
-Strong problem solving and organizational skills useful in any multidisciplinary setting. 
-Effective in a team atmosphere with thoughtful attention to communication.
+As a professional software engineer, I have experience contributing to the design and development of software. 
+I particularly enjoy the front-end aspect of design, which involves creating visually appealing and user-friendly interfaces that meet client needs.
+
+I have excellent skills in identifying potential issues and implementing effective solutions for products. Additionally, my strong problem-solving and organizational abilities make me a valuable asset in any multidisciplinary setting.
+
+I work well in a team atmosphere and prioritize effective communication to ensure that everyone is on the same page.
 
 🔭 
 🌱 I’m currently working on a software Engineer.
