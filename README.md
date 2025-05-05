@@ -15,27 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ~  👋 Hello Let's begin. I'm delighted you are here!!  😄 ~
+# ~  👋 Hello and Welcome — I'm So Glad You're Here!   😄 ~
 
 <img src="./asset/cover.png"  width="100%" /> 
 <img src="./asset/giphy.gif" width="5%" /> 
 
-My name is Thasanee, but you can call me Meow. I am a software developer who is passionate about creating delightful experiences for users.
+Hi! I'm Thasanee — but you can call me Meow.
+I'm a Software Developer who’s passionate about crafting meaningful, intuitive user experiences.
 
-As a professional software engineer, I have experience contributing to the design and development of software. 
-I particularly enjoy the front-end aspect of design, which involves creating visually appealing and user-friendly interfaces that meet client needs.
+I specialize in front-end development and love transforming design concepts into functional, responsive, and accessible interfaces. I bring strong problem-solving skills, attention to detail, and a collaborative spirit to every team I join.
 
-I have excellent skills in identifying potential issues and implementing effective solutions for products. Additionally, my strong problem-solving and organizational abilities make me a valuable asset in any multidisciplinary setting.
+🌱 A little about me:
+🛠️ Currently working as a software engineer
 
-I work well in a team atmosphere and prioritize effective communication to ensure that everyone is on the same page.
+🌍 Multilingual: Thai, Lao, English, and a little Spanish
 
-🔭 
-🌱 I’m currently working on a software Engineer.
-I can speak Thai, Loas, English and a little Spanish.
+📚 Always learning and up for a challenge
 
-I love to learn and challenge myself.
-
-My top used programming languages are `JavaScript` and `TypeScript`, `React`. FYI!!
+💻 Most used tech: `JavaScript`, `TypeScript`, `React` and `Other...`
 
 
 <!-- <img src="./asset/code.png" width="80%" /> -->
@@ -43,7 +40,7 @@ My top used programming languages are `JavaScript` and `TypeScript`, `React`. FY
 
 
 
-# Techinal Skills
+# 🧠 Technical Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" />
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" height="50px" />
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png" height="50px" />
@@ -55,7 +52,7 @@ My top used programming languages are `JavaScript` and `TypeScript`, `React`. FY
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" height="50px" />
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" height="50px" />
 
-## 🔧 Technologies & Tools
+## 🧰 Tools & Technologies
 
 ![os](https://img.shields.io/badge/OS-macOS-informational?style=for-the-badge&logo=macos&logoColor=f9f9f9&color=001634)
 ![shell](https://img.shields.io/badge/Shell-iTerm2-informational?style=for-the-badge&logo=iterm2&logoColor=f9f9f9&color=001634)
@@ -87,8 +84,7 @@ My top used programming languages are `JavaScript` and `TypeScript`, `React`. FY
 
 
 
-A social media list
-
+📫 Connect With Me
 [![https://github.com/buildingwatsize](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=f9f9f9)](https://github.com/Meowmerry)
 [![https://www.facebook.com/chinnawat.chimdee/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=f9f9f9)](https://www.facebook.com/LearningEnglishBymyself)
 [![https://www.linkedin.com/in/thasanee-p-686125243/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=f9f9f9)](https://www.linkedin.com/in/thasanee-p-686125243/)
